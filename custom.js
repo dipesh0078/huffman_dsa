@@ -1,5 +1,5 @@
 /* ---- particles.js config ---- */
-
+/*.....*/
 particlesJS("bg", {
     "particles": {
       "number": {
